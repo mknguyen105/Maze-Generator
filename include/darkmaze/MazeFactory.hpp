@@ -1,8 +1,5 @@
 // MazeFactory.hpp
 //
-// ICS 46 Spring 2017
-// Project #1: Dark at the End of the Tunnel
-//
 // This class is what you would use when you want to create a new Maze
 // object.  Note, though, that you're unlikely to need to do that; the
 // GUI creates a Maze object for you and passes it to your MazeGenerator.

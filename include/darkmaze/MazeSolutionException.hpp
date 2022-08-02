@@ -1,8 +1,5 @@
 // MazeSolutionException.hpp
 //
-// ICS 46 Spring 2017
-// Project #1: Dark at the End of the Tunnel
-//
 // Exception thrown by a MazeSolution object when interacting with it in a
 // way that's invalid, such as backing up when the solution is already empty
 // or extending the solution outside of the boundaries of the maze.

@@ -1,8 +1,5 @@
 // MazeSolver.hpp
 //
-// ICS 46 Spring 2017
-// Project #1: Dark at the End of the Tunnel
-//
 // This is an abstract base class for maze solvers.  You'll want to create
 // a new class that inherits from this class and provides a solveMaze()
 // implementation.

@@ -1,8 +1,5 @@
 // MazeVerifier.hpp
 //
-// ICS 46 Spring 2017
-// Project #1: Dark at the End of the Tunnel
-//
 // Verifier that is able to check whether a given Maze is "perfect" (i.e.,
 // there is a unique path from every cell in the maze to every other cell
 // in the maze).

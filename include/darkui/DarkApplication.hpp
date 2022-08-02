@@ -1,8 +1,5 @@
 // DarkApplication.hpp
 //
-// ICS 46 Spring 2017
-// Project #1: Dark at the End of the Tunnel
-//
 // The DarkApplication class implements the outermost layer of the
 // "Dark at the End of the Tunnel" GUI.  Create an object of this
 // type and call the run() function on it to launch the GUI.

@@ -1,8 +1,5 @@
 // gtestmain.cpp
 //
-// ICS 46 Spring 2017
-// Project #1: Dark at the End of the Tunnel
-//
 // DO NOT MODIFY THIS FILE AT ALL.  Its job is to launch Google Test and run
 // any unit tests that you wrote in source files in the "gtest" directory.
 // Simply add new source files to the "gtest" directory and write unit tests

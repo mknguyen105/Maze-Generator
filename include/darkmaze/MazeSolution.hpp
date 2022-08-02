@@ -1,8 +1,5 @@
 // MazeSolution.hpp
 //
-// ICS 46 Spring 2017
-// Project #1: Dark at the End of the Tunnel
-//
 // Declares an abstract base class for MazeSolution implementations.  An
 // implementation of this class is provided already, though the source code
 // for it is not being provided to you.

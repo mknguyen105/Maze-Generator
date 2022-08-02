@@ -1,8 +1,5 @@
 // MazeSolutionVerifier.hpp
 //
-// ICS 46 Spring 2017
-// Project #1: Dark at the End of the Tunnel
-//
 // Verifier that is able to check whether a given MazeSolution is correct
 // (i.e., it begins at the starting cell, ends at the ending cell, and
 // doesn't "cheat" by passing through walls).

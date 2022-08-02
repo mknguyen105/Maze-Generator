@@ -1,8 +1,5 @@
 // MazeListener.hpp
 //
-// ICS 46 Spring 2017
-// Project #1: Dark at the End of the Tunnel
-//
 // A MazeListener is an object that is notified whenever a Maze has been
 // changed (e.g., having a wall removed).  Each Maze has a collection of
 // these listeners registered to it, and these listeners are then notified

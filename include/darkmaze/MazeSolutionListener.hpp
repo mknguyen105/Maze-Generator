@@ -1,8 +1,5 @@
 // MazeSolutionListener.hpp
 //
-// ICS 46 Spring 2017
-// Project #1: Dark at the End of the Tunne
-//
 // A MazeSolutionListener is an object that is notified whenever a MazeSolution
 // has been changed (e.g., extended forward one cell).  Each MazeSolution has a
 // collection of these listeners registered to it, and these listeners are then

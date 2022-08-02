@@ -1,8 +1,5 @@
 // DynamicFactoryRegistration.hpp
 //
-// ICS 46 Spring 2017
-// ICS 46 Library
-//
 // Implements a single registration entry for a DynamicFactory, along
 // with the ICS46_DYNAMIC_FACTORY_REGISTER macro used to register a
 // single class into a DynamicFactory.
